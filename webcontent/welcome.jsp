@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome - Simple Secure App</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Welcome, ${sessionUser}!</h2>
+
+        </div>
+
+
+    </div>
+</body>
+</html>
